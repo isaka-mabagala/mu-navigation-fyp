@@ -1,0 +1,353 @@
+[
+  {
+    "id": "6435799b69fedc33cbfd219e",
+    "title": "LAB C214",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5673585,
+    "latitude": -6.9251801,
+    "campus": "mu"
+  },
+  {
+    "id": "643579c669fedc33cbfd219f",
+    "title": "C211",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56730321059995,
+    "latitude": -6.925194640200001,
+    "campus": "mu"
+  },
+  {
+    "id": "643579f569fedc33cbfd21a0",
+    "title": "C210",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56716701076648,
+    "latitude": -6.925196698933915,
+    "campus": "mu"
+  },
+  {
+    "id": "64357a1969fedc33cbfd21a1",
+    "title": "C207",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5670559,
+    "latitude": -6.9251918,
+    "campus": "mu"
+  },
+  {
+    "id": "64357a4469fedc33cbfd21a2",
+    "title": "C201",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5668411,
+    "latitude": -6.9251808,
+    "campus": "mu"
+  },
+  {
+    "id": "64357adf69fedc33cbfd21a3",
+    "title": "C103",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.56692275899993,
+    "latitude": -6.925276934500165,
+    "campus": "mu"
+  },
+  {
+    "id": "64357afc69fedc33cbfd21a4",
+    "title": "C105",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56710335249997,
+    "latitude": -6.925242154299944,
+    "campus": "mu"
+  },
+  {
+    "id": "64357b1969fedc33cbfd21a5",
+    "title": "C108",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.567124407438136,
+    "latitude": -6.925208534938218,
+    "campus": "mu"
+  },
+  {
+    "id": "64357b4b69fedc33cbfd21a6",
+    "title": "C109",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5672036,
+    "latitude": -6.9251901,
+    "campus": "mu"
+  },
+  {
+    "id": "64357b6d69fedc33cbfd21a7",
+    "title": "C111",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.56727332159986,
+    "latitude": -6.9252121928000445,
+    "campus": "mu"
+  },
+  {
+    "id": "64357b8969fedc33cbfd21a8",
+    "title": "C112",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.567283386200025,
+    "latitude": -6.925215316500008,
+    "campus": "mu"
+  },
+  {
+    "id": "64357be469fedc33cbfd21a9",
+    "title": "SAMORA HALL",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5673503,
+    "latitude": -6.925465,
+    "campus": "mu"
+  },
+  {
+    "id": "64357c1469fedc33cbfd21aa",
+    "title": "LCR 1",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56737979776143,
+    "latitude": -6.925569494200499,
+    "campus": "mu"
+  },
+  {
+    "id": "64357c3969fedc33cbfd21ab",
+    "title": "LCR 2",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56744789800006,
+    "latitude": -6.925627644199974,
+    "campus": "mu"
+  },
+  {
+    "id": "64357cb669fedc33cbfd21ac",
+    "title": "CHABRUMA",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.568053184483375,
+    "latitude": -6.926037981165445,
+    "campus": "mu"
+  },
+  {
+    "id": "64357cf169fedc33cbfd21ad",
+    "title": "LUMANYIKA",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5679208599,
+    "latitude": -6.926419026900006,
+    "campus": "mu"
+  },
+  {
+    "id": "64357de969fedc33cbfd21ae",
+    "title": "CHINUA ACHEBE LIBRARY",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "library",
+    "longitude": 37.56711865079994,
+    "latitude": -6.926838280200005,
+    "campus": "mu"
+  },
+  {
+    "id": "64357ec969fedc33cbfd21af",
+    "title": "USWAZI JUU",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "place",
+    "longitude": 37.56864862325879,
+    "latitude": -6.92826178661632,
+    "campus": "mu"
+  },
+  {
+    "id": "64357f5669fedc33cbfd21b0",
+    "title": "CRDB BANK MZUMBE",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "bank",
+    "longitude": 37.569379575050135,
+    "latitude": -6.927355656949976,
+    "campus": "mu"
+  },
+  {
+    "id": "64357fbc69fedc33cbfd21b1",
+    "title": "MARIA HOSTEL",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "hostel",
+    "longitude": 37.57012971629999,
+    "latitude": -6.927108011800009,
+    "campus": "mu"
+  },
+  {
+    "id": "6435804469fedc33cbfd21b2",
+    "title": "NBC ATM",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "atm",
+    "longitude": 37.5688358,
+    "latitude": -6.9264125,
+    "campus": "mu"
+  },
+  {
+    "id": "6435811269fedc33cbfd21b3",
+    "title": "NMB ATM",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "atm",
+    "longitude": 37.56842744428148,
+    "latitude": -6.927413553044077,
+    "campus": "mu"
+  },
+  {
+    "id": "6435814169fedc33cbfd21b4",
+    "title": "MUSO OFFICE",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.56840260489585,
+    "latitude": -6.927426406150904,
+    "campus": "mu"
+  },
+  {
+    "id": "6435819169fedc33cbfd21b5",
+    "title": "SOPAM OFFICE",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.567712458065,
+    "latitude": -6.927206105309998,
+    "campus": "mu"
+  },
+  {
+    "id": "6435821e69fedc33cbfd21b6",
+    "title": "VIMBWETA CABRO",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "place",
+    "longitude": 37.5669839424001,
+    "latitude": -6.927339968199927,
+    "campus": "mu"
+  },
+  {
+    "id": "6435827869fedc33cbfd21b7",
+    "title": "KINGO HOSTEL",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "hostel",
+    "longitude": 37.56679941639985,
+    "latitude": -6.926195527599817,
+    "campus": "mu"
+  },
+  {
+    "id": "643582d869fedc33cbfd21b8",
+    "title": "KINJEKITILE HOSTEL",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "hostel",
+    "longitude": 37.56694912259992,
+    "latitude": -6.925680084599984,
+    "campus": "mu"
+  },
+  {
+    "id": "6435831569fedc33cbfd21b9",
+    "title": "LCR 3",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56739836480011,
+    "latitude": -6.925905758000007,
+    "campus": "mu"
+  },
+  {
+    "id": "6435838669fedc33cbfd21ba",
+    "title": "KAWAWA BLOCK",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "block",
+    "longitude": 37.567680728435924,
+    "latitude": -6.925390516615813,
+    "campus": "mu"
+  },
+  {
+    "id": "643583be69fedc33cbfd21bb",
+    "title": "ADMINISTRATION",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.567701908000004,
+    "latitude": -6.925382721600001,
+    "campus": "mu"
+  },
+  {
+    "id": "643583fa69fedc33cbfd21bc",
+    "title": "GENEVA LAB",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5677861,
+    "latitude": -6.9254364,
+    "campus": "mu"
+  },
+  {
+    "id": "6435843a69fedc33cbfd21bd",
+    "title": "4 SITE PROGRAMME",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.567694999136855,
+    "latitude": -6.92534847181035,
+    "campus": "mu"
+  },
+  {
+    "id": "64358cc069fedc33cbfd21be",
+    "title": "BOMANI LT",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56761615308849,
+    "latitude": -6.924932955702128,
+    "campus": "mu"
+  },
+  {
+    "id": "64358d0e69fedc33cbfd21bf",
+    "title": "MAREALLE LT",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56769459989683,
+    "latitude": -6.924941334302367,
+    "campus": "mu"
+  },
+  {
+    "id": "64358d4769fedc33cbfd21c0",
+    "title": "DICT",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.5676660664,
+    "latitude": -6.9249563417,
+    "campus": "mu"
+  },
+  {
+    "id": "64358db069fedc33cbfd21c1",
+    "title": "FANON LT",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56799946390005,
+    "latitude": -6.92488827019999,
+    "campus": "mu"
+  },
+  {
+    "id": "64358ec569fedc33cbfd21c2",
+    "title": "B104",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "office",
+    "longitude": 37.56707628809505,
+    "latitude": -6.92495942316197,
+    "campus": "mu"
+  },
+  {
+    "id": "64358f1e69fedc33cbfd21c3",
+    "title": "B208",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.5673433550001,
+    "latitude": -6.924908704999983,
+    "campus": "mu"
+  },
+  {
+    "id": "64358f5069fedc33cbfd21c4",
+    "title": "LAB B210",
+    "description": "Mzumbe, Morogoro, Tanzania",
+    "category": "venue",
+    "longitude": 37.56742000380348,
+    "latitude": -6.924891069801961,
+    "campus": "mu"
+  }
+]

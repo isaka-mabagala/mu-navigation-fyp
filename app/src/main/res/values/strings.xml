@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MU Navigation</string>
+
+    <string name="mapbox_access_token">MAPBOX_ACCESS_TOKEN</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="dropdown_item">Dropdown Item</string>
+    <string name="search">Search</string>
+    <string name="image_description">image</string>
+    <string name="btn_distance">Distance</string>
+    <string name="btn_setting">Settings</string>
+    <string name="positive_button_permission">GO TO SETTINGS</string>
+    <string name="negative_button_permission">CANCEL</string>
+    <string name="my_location">my location</string>
+    <string name="estimation">Estimation</string>
+    <string name="street_map">Street Map</string>
+    <string name="augmented_reality">Augmented Reality</string>
+    <string name="direction_view">Select direction view</string>
+    <string name="venue">Venue</string>
+    <string name="office">Office</string>
+    <string name="hostel">Hostel</string>
+    <string name="more">More</string>
+    <string name="no_search_result">No data found</string>
+    <string name="setting_terms_conditions">Terms and conditions</string>
+    <string name="setting_safety">Safety</string>
+    <string name="setting_share">Share</string>
+    <string name="setting_uses">Uses</string>
+    <string name="setting_details">Details</string>
+    <string name="setting_about">About</string>
+    <string name="setting_faq">Frequency asked questions</string>
+    <string name="setting_contact">Contact Us</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="contact_phone_number">+255 752 988 988</string>
+    <string name="email">Email</string>
+    <string name="contact_email">isaxstarisaka@gmail.com</string>
+    <string name="address">Address</string>
+    <string name="contact_address">Mzumbe University,\nMorogoro</string>
+    <string name="rational_dialog_for_permissions">
+        It looks like you have turned off permission required for this feature.
+        It can be enabled under the Applications settings
+    </string>
+    <string name="app_share_text">
+        Download MU Navigation app\n\nPlay Store\n\n
+        https://play.google.com/store/apps/details?id=com.isaka.munavigation
+    </string>
+    <string name="about_app">Navigate through an unknown area on the university campus with the help of GPS easily and quickly.\n\nThis app solves the problem for newly enrolled students at the university, for difficulty to find their way around the university campus at various buildings, departments, libraries, canteens, classrooms and other places within the university campus.</string>
+
+    <string name="location_title">Title</string>
+    <string name="location_description">Description</string>
+    <string name="location_category">Category</string>
+    <string name="location_campus">Campus</string>
+    <string name="location_longitude">Longitude</string>
+    <string name="location_latitude">Latitude</string>
+</resources>

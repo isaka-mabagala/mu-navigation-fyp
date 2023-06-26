@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DirectionActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tb_direction"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/gunmetal_800"
+        android:theme="@style/Theme.MUNavigation.ToolBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:titleTextAppearance="@style/Toolbar.TitleText" />
+
+    <com.mapbox.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="56dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        mapbox:mapbox_cameraTargetLat="-6.805100148396832"
+        mapbox:mapbox_cameraTargetLng="37.66345014350327"
+        mapbox:mapbox_cameraZoom="11.0" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin_12"
+        android:layout_marginBottom="@dimen/margin_20"
+        android:background="@drawable/location_view_background"
+        android:elevation="5dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/ll_estimation_box"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_direction_view"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_margin="@dimen/margin_10"
+            android:adjustViewBounds="true"
+            android:clickable="true"
+            android:contentDescription="@string/image_description"
+            android:focusable="true"
+            android:src="@drawable/ic_layers"
+            app:tint="@color/sandy_brown" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_view_line_bottom_height"
+            android:layout_marginTop="@dimen/list_view_line_bottom_margin"
+            android:background="@color/teal_200" />
+
+        <ImageView
+            android:id="@+id/iv_my_location"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_margin="@dimen/margin_10"
+            android:adjustViewBounds="true"
+            android:clickable="true"
+            android:contentDescription="@string/image_description"
+            android:focusable="true"
+            android:src="@drawable/ic_my_location"
+            app:tint="@color/gunmetal_800" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_estimation_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/padding_5"
+        android:background="@drawable/estimate_direction_background"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_12"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_direction_image"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginEnd="@dimen/margin_10"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/image_description"
+            app:tint="@color/gunmetal_800"
+            tools:src="@drawable/ic_directions_walk" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/estimation"
+                android:textColor="@color/gunmetal"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold"
+                tools:text="Estimation" />
+
+            <TextView
+                android:id="@+id/tv_direction_estimate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gunmetal_800"
+                tools:text="16.48 km, hr 3:min 13 to arrive" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

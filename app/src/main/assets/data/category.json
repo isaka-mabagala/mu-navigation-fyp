@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Canteen",
+    "alias": "canteen",
+    "icon": "ic_local_dining"
+  },
+  {
+    "name": "Venue",
+    "alias": "venue",
+    "icon": "ic_map"
+  },
+  {
+    "name": "Office",
+    "alias": "office",
+    "icon": "ic_home"
+  },
+  {
+    "name": "Hostel",
+    "alias": "hostel",
+    "icon": "ic_local_hotel"
+  },
+  {
+    "name": "Bank",
+    "alias": "bank",
+    "icon": "ic_account_balance"
+  },
+  {
+    "name": "ATM",
+    "alias": "atm",
+    "icon": "ic_account_balance_wallet"
+  },
+  {
+    "name": "Block",
+    "alias": "block",
+    "icon": "ic_home"
+  },
+  {
+    "name": "Building",
+    "alias": "building",
+    "icon": "ic_home"
+  },
+  {
+    "name": "Hospital",
+    "alias": "hospital",
+    "icon": "ic_local_hospital"
+  },
+  {
+    "name": "Place",
+    "alias": "place",
+    "icon": "ic_map"
+  },
+  {
+    "name": "Playground",
+    "alias": "playground",
+    "icon": "ic_sports_kabaddi"
+  },
+  {
+    "name": "Library",
+    "alias": "library",
+    "icon": "ic_local_library"
+  }
+]

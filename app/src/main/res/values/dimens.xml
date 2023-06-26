@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="corner_radius_5">5dp</dimen>
+    <dimen name="corner_radius_3">3dp</dimen>
+
+    <dimen name="card_view_elevation">10dp</dimen>
+    <dimen name="card_view_elevation_6">6dp</dimen>
+    <dimen name="card_view_elevation_3">3dp</dimen>
+    <dimen name="card_view_layout_content_padding">16dp</dimen>
+    <dimen name="card_view_layout_content_margin">16dp</dimen>
+    <dimen name="card_btn_image_size">40dp</dimen>
+
+    <dimen name="btn_marginStartEnd">20dp</dimen>
+    <dimen name="btn_paddingTopBottom">8dp</dimen>
+    <dimen name="btn_text_size">16sp</dimen>
+    <dimen name="btn_width_200">200dp</dimen>
+    <dimen name="btn_height_32">32dp</dimen>
+
+    <dimen name="item_image_button_padding">5dp</dimen>
+
+    <dimen name="list_view_layout_content_padding">16dp</dimen>
+    <dimen name="list_view_layout_content_margin">16dp</dimen>
+    <dimen name="list_view_line_bottom_height">1dp</dimen>
+    <dimen name="list_view_line_bottom_margin">5dp</dimen>
+
+    <dimen name="progress_dialog_content_padding">10dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_text_marginStart">16dp</dimen>
+    <dimen name="progress_text_size">16sp</dimen>
+</resources>
